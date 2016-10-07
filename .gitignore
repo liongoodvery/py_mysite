@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+*.log
+*.pot
+*.pyc
+local_settings.py
